@@ -6,8 +6,8 @@ student_info = [
     class: 'Beginning snark'
   },
   {
-    first_name: 'Sylwester'
-    last_name: 'Kelsey'
+    first_name: 'Sylwester',
+    last_name: 'Kelsey',
     email: 'sellie@gmail.com',
     class: 'Ruby Immersive'
   },
